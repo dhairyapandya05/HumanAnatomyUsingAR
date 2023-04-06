@@ -76,11 +76,11 @@ Navigate to the link to download the APK file of the project: [click here](https
 
 ## FAQ
 
-#### Is it compatible to all Mobile Devices
+#### Is it compatible to all Mobile Devices?
 
 No it is only compatible with minimum API level 24 (Android 7). Also the smartphone should support AR Core supported devices list. [Click here](https://developers.google.com/ar/devices) to check the compatibility.
 
-#### What to do if the phone is not supported AR Core
+#### What to do if the phone is not supported AR Core?
 
 You will not be able to see the demo. The sample demo is provided here.Try to install the apk file with some other device in which it supports AR Core.
 
