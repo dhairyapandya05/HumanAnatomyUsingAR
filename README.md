@@ -1,9 +1,9 @@
+
+# Understanding Human Anatomy in Augmented Reality <AR>
+
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/75428863/230456120-a2bce27e-16bb-47a8-ae7f-c9221a6c5beb.png" />
 </h1>
-# Understanding Human Anatomy in Augmented Reality <AR>
-
-
 
 ## Description
 
