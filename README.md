@@ -1,9 +1,8 @@
-![img](https://user-images.githubusercontent.com/75428863/230456120-a2bce27e-16bb-47a8-ae7f-c9221a6c5beb.png)
+![img](https://user-images.githubusercontent.com/75428863/230483533-bdf2322a-4739-4402-b6df-aa9a08968bb6.png)
+<!-- ![The best way to predict your future is to create it](https://user-images.githubusercontent.com/75428863/230483533-bdf2322a-4739-4402-b6df-aa9a08968bb6.png) -->
+
 # Understanding Human Anatomy in Augmented Reality <AR>
 
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/75428863/230456120-a2bce27e-16bb-47a8-ae7f-c9221a6c5beb.png" />
-</h1>
 
 ## Description
 
