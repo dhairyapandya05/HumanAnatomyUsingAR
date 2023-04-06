@@ -25,7 +25,13 @@ The project includes a variety of features such as a 3D model of the human body 
 - XR Development
 - AR CORE + AR Kit
 
+## Related
 
+Here are some related projects
+ [Car in Augmented Reality](https://github.com/dhairya0512/AR-car)
+ [Earth in Augmented Reality](https://github.com/dhairya0512/e-AR-th)
+ 
+ 
 ## Installation and Usage
 
 To use Human Anatomy in AR, users need to have an AR-CORE enabled device such as an iPhone or ipad or any other andrid device.
