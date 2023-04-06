@@ -85,9 +85,8 @@ The 3D models are designed to be responsive and dynamic, adapting to changes in 
  
  <img width ="600" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
  
- ![Screenshot_20230407-004310_Video Player](https://user-images.githubusercontent.com/75428863/230474010-08bd469e-8b80-4b60-b254-eaacf67e24c6.jpg)
-![Screenshot_20230407-004333_Video Player](https://user-images.githubusercontent.com/75428863/230474031-caf923c3-dbf7-4f36-a8c9-0ba76658d68a.jpg)
-![Screenshot_20230407-004350_Video Player](https://user-images.githubusercontent.com/75428863/230474048-88474a53-f842-423f-863a-7f6238300ae0.jpg)
+![Untitled design (3)](https://user-images.githubusercontent.com/75428863/230476562-b3d14d46-a716-4022-bbe6-7131650137f5.jpg)
+
 
  
 
