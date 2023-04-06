@@ -57,8 +57,10 @@ Go to the link: [click here](https://drive.google.com/file/d/1FWoLO1iURIrJN-Ccpw
  <h2>
  Animated Heart Visualiser
  </h2>
- ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230454523-e2a6a49f-7d75-444e-83d0-668765d5a29f.gif)
 
+
+ <img width ="960" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
+<!--  ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif) -->
  
 
 
