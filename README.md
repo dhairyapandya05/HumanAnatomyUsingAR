@@ -51,8 +51,10 @@ Go to the link: [click here](https://drive.google.com/file/d/1FWoLO1iURIrJN-Ccpw
 
 
 
-## Screenshots
- 
+## Project Pictures
+<img width="960" alt="Picture1ht" src="https://user-images.githubusercontent.com/75428863/230447934-c2dafb2f-bd59-4544-aa8c-4c6afc6edd1e.png">
+<img width="960" alt="Picture2ht" src="https://user-images.githubusercontent.com/75428863/230447974-ac981f8a-99e3-4eaa-9395-3e7f205e05f1.png">
+
 
 
 
