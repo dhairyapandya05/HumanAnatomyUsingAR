@@ -75,7 +75,7 @@ Navigate to the link to download the APK file of the project: [click here](https
  
 <!--  ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif) -->
   ![Slide3](https://user-images.githubusercontent.com/75428863/230480850-17afca8c-684c-456a-82fd-65ab077c45ce.JPG)
- <br>
+ <br><br><br>
  On entering the dark room, a warning message will appear indicating that the lighting condition is low and suggesting to move to an area with better lighting. Additionally, the 3D model of the heat source will illuminate, presenting a futuristic and adaptable characteristic to the 3D models.<br>
  ![2](https://user-images.githubusercontent.com/75428863/230469098-b299f283-b588-4888-8eac-8cc5bdc96eb8.png)
 
