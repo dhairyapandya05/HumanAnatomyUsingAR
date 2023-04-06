@@ -27,7 +27,7 @@ The project includes a variety of features such as a 3D model of the human body 
 
 ## Related
 
-Here are some related projects
+Here are some related projects<br>
  [Car in Augmented Reality](https://github.com/dhairya0512/AR-car)<br>
  [Earth in Augmented Reality](https://github.com/dhairya0512/e-AR-th)
  
