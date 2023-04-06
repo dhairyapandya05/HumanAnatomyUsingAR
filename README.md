@@ -78,14 +78,16 @@ Navigate to the link to download the APK file of the project: [click here](https
 <!--  ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif) -->
   ![Slide3](https://user-images.githubusercontent.com/75428863/230480850-17afca8c-684c-456a-82fd-65ab077c45ce.JPG)
  <br>
- ![ezgif com-optimize (1)12](https://user-images.githubusercontent.com/75428863/230493681-ad8304f5-9461-4242-ac74-67ad2d1cca7e.gif)
+ 
+ 
+<img width ="600" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493681-ad8304f5-9461-4242-ac74-67ad2d1cca7e.gif">
 
  <br><br><br>
  On entering the dark room, a warning message will appear indicating that the lighting condition is low and suggesting to move to an area with better lighting. Additionally, the 3D model of the heat source will illuminate, presenting a futuristic and adaptable characteristic to the 3D models.<br>
  ![2](https://user-images.githubusercontent.com/75428863/230469098-b299f283-b588-4888-8eac-8cc5bdc96eb8.png)
  
-![ezgif com-optimize (1)11](https://user-images.githubusercontent.com/75428863/230493628-ad8fe9eb-c6ea-426a-8234-8dd98904c322.gif)
 
+<img width ="600" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493628-ad8fe9eb-c6ea-426a-8234-8dd98904c322.gif">
 
 The 3D models are designed to be responsive and dynamic, adapting to changes in lighting conditions and adjusting their brightness, texture, and overall appearance to create a realistic impression. Furthermore, the models process shadows to enhance the realism, giving the impression that the models are present in the physical environment.<br>
  
@@ -100,7 +102,7 @@ The 3D models are designed to be responsive and dynamic, adapting to changes in 
  ![Untitled design (4)](https://user-images.githubusercontent.com/75428863/230477565-b625f406-5324-4bcd-92c5-49521187ec55.jpg)
 
  
-![Untitled_design__10__AdobeExpress (1)](https://user-images.githubusercontent.com/75428863/230493572-f4c52782-3591-41ba-83e5-89f4b2fdca38.gif)
+<img width ="600" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493572-f4c52782-3591-41ba-83e5-89f4b2fdca38.gif">
 
 
  
