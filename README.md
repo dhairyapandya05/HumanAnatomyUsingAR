@@ -98,12 +98,12 @@ The 3D models are designed to be responsive and dynamic, adapting to changes in 
 ![Untitled design (3)](https://user-images.githubusercontent.com/75428863/230476562-b3d14d46-a716-4022-bbe6-7131650137f5.jpg)<br>
  
  
-<img width ="600" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493755-033e8be2-87a5-4fb4-9d65-553788779f88.jpg">
-<br>
+
 
 
  ![Untitled design (4)](https://user-images.githubusercontent.com/75428863/230477565-b625f406-5324-4bcd-92c5-49521187ec55.jpg)
-
+<img width ="600" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493755-033e8be2-87a5-4fb4-9d65-553788779f88.jpg">
+<br>
  
 <img width ="450" alt = "Untitled_design__10__AdobeExpress" src="https://user-images.githubusercontent.com/75428863/230493572-f4c52782-3591-41ba-83e5-89f4b2fdca38.gif">
 
