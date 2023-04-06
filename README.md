@@ -14,6 +14,8 @@ The project includes a variety of features such as a 3D model of the human body 
 - Animated Augmetned human models
 - Visualize the model in 3D environment
 - Rotate, Scale & Move
+- Glow in the dark
+- Social media sharing 
 - Realistic Lighting with actual shadows
 
 
