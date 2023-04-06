@@ -59,7 +59,7 @@ Go to the link: [click here](https://drive.google.com/file/d/1FWoLO1iURIrJN-Ccpw
  </h2>
 
 
- <img width ="960" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
+ <img width ="600" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
 <!--  ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif) -->
  
 
