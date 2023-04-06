@@ -68,11 +68,19 @@ Navigate to the link to download the APK file of the project: [click here](https
 
 
  <img width ="600" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
+ 
+ 
+ 
+ ## Screenshots
+ 
 <!--  ![ezgif com-optimize](https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif) -->
  
+ On entering the dark room, a warning message will appear indicating that the lighting condition is low and suggesting to move to an area with better lighting. Additionally, the 3D model of the heat source will illuminate, presenting a futuristic and adaptable characteristic to the 3D models.<br>
+ ![2](https://user-images.githubusercontent.com/75428863/230469098-b299f283-b588-4888-8eac-8cc5bdc96eb8.png)
 
 
-
+The 3D models are designed to be responsive and dynamic, adapting to changes in lighting conditions and adjusting their brightness, texture, and overall appearance to create a realistic impression. Furthermore, the models process shadows to enhance the realism, giving the impression that the models are present in the physical environment.<br>
+![Add a subheading](https://user-images.githubusercontent.com/75428863/230471047-42fb3680-efeb-4e1c-b26c-344a262d66c6.png)
 
 ## FAQ
 
