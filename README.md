@@ -69,7 +69,7 @@ Navigate to the link to download the APK file of the project: [click here](https
  </h2>
 
 
- <img width ="600" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
+ <img width ="1000" alt ="ezgif com-optimize" src="https://user-images.githubusercontent.com/75428863/230455023-57703498-b06d-4aaf-9f4c-5560b83fa7a9.gif">
  
  
  
