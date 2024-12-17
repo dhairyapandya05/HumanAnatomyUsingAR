@@ -3,7 +3,7 @@
 
 # Understanding Human Anatomy in Augmented Reality <AR>
 
-![Designer (2)](https://user-images.githubusercontent.com/75428863/230483860-4b79b625-70e8-45a4-ab3c-37f2521ccb7b.png)
+![Designer (2)](https://user-images.githubusercontent.com/75428863/230477565-b625f406-5324-4bcd-92c5-49521187ec55.jpg)
 
 ## Description
 
