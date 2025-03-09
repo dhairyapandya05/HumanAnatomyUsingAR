@@ -18,6 +18,9 @@ The project includes a variety of features such as a 3D model of the human body 
 - Social media sharing 
 - Realistic Lighting with actual shadows
 
+  ### In short
+- Improved user immersion in AR by implementing real-time light adaptation and dynamic shadow rendering at 60 FPS using OpenGL ES graphics, supporting API 24 on Android 7, with compatibility for over 97.4% of devices.  
+- Features 360° rotation, 200% zoom scaling, and real-time object repositioning for an intuitive learning experience.  
 
 
 ## Key Highlights
