@@ -59,8 +59,25 @@ ARCore is supported on over 400 million Android devices, although this number ma
     
 ## Demo
 
-Navigate to the link to download the APK file of the project: [click here](https://drive.google.com/file/d/1mc3hUIDZF31q2LqEEKvKARl-unDViAUq/view?usp=sharing).
-Navigate to the youtube demo link of the project: [click here](https://youtu.be/yvOksePyN5g).
+<!-- APK Download Link -->
+<p>
+  Navigate to the link to download the APK file of the project: 
+  <a href="https://drive.google.com/file/d/1mc3hUIDZF31q2LqEEKvKARl-unDViAUq/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+    click here
+  </a>.
+</p>
+
+<!-- Line Break -->
+<br />
+
+<!-- YouTube Demo Link -->
+<p>
+  Navigate to the YouTube demo link of the project: 
+  <a href="https://youtu.be/yvOksePyN5g" target="_blank" rel="noopener noreferrer">
+    click here
+  </a>.
+</p>
+
 
 
 
